@@ -40,6 +40,8 @@
 
 *.zip
 
+Gemfile.lock
+
 
 
 # Logs and databases #
